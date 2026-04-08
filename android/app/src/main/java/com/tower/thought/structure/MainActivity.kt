@@ -1,4 +1,4 @@
-package com.towerthoughtstructure
+package com.tower.thought.structure
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
