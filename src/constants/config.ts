@@ -1,0 +1,8 @@
+export const CONFIG = {
+  SPLASH_WEBVIEW_DURATION_MS: 3000,
+  SPLASH_LOGO_DURATION_MS:    3000,
+  SPLASH_TOTAL_MS:            6000,
+  ANSWER_FEEDBACK_DELAY_MS:   700,
+  MAX_LOGIC_LEVELS:           6,
+  
+} as const;
