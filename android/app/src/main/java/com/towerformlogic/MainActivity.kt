@@ -1,4 +1,4 @@
-package com.tower.thought.structure
+package com.towerformlogic
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

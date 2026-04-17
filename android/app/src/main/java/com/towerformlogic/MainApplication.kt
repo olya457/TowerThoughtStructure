@@ -1,4 +1,4 @@
-package com.tower.thought.structure
+package com.towerformlogic
 
 import android.app.Application
 import com.facebook.react.PackageList
